@@ -5,7 +5,7 @@ AI - Search Algorithms applied to the PacMan Game
 # Pacman
 Berkeley University Project: Pacman agent will find paths through his maze world, both to reach a particular location and to collect food efficiently. You will build general search algorithms and apply them to Pacman scenarios.
 
-![Example game of isolation](viz.gif)
+![Pacman](pacman.jpg)
 
 This project is part of **Udacity´s Artificial Intelligence Nanodegree Program**. Here you will find my personal solution to the challenge. I first explain how you can download it and test it. Next, I have added Udacity´s original instructions for completing the project
 
