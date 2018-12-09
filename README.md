@@ -10,7 +10,7 @@ Berkeley University Project: Pacman agent will find paths through his maze world
 This project is part of **Udacity´s Artificial Intelligence Nanodegree Program**. Here you will find my personal solution to the challenge. I first explain how you can download it and test it. Next, I have added Udacity´s original instructions for completing the project
 
 ## Project Requirements
-To fully test the project, you might need to install some required packages. Please start by downloading **Anaconda** using the following link: [Download Anaconda](https://www.continuum.io/downloads). Once installed, clone this repository and access the downloaded folder through a **terminal** window. Next, you need to install the required packages:
+To fully test the project, you might need to install some required packages. Please start by downloading **Anaconda** using the following link: [Download Anaconda](https://www.anaconda.com/download/). Once installed, clone this repository and access the downloaded folder through a **terminal** window. Next, you need to install the required packages:
 
     $ conda env create -f pmaienv.yml
     
